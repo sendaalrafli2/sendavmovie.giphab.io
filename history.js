@@ -5,7 +5,7 @@
       { judul: "komang", gambar: "komang.jpeg" },
       { judul: "kang mak", gambar: "kang mak.jpeg" },
       { judul: "galaksi", gambar: "galaksi.jpeg" },
-      { judul: "plankton_the_movie", gambar: "plankton.jpeg" },
+      { judul: "plankton", gambar: "plankton.jpeg" },
       { judul: "pinjam 100", gambar: "pinjam 100.jpeg" },
       { judul: "pixels", gambar: "pixels.jpeg" }
     ];
